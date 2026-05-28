@@ -19,4 +19,5 @@
 2.Copy HTTPS URL
 3.Open terminal 
 4.Run command : Git clone URL
-5.Open file 
+5.Open file swagLabs.robot
+6.Run command : Robot .\swagLabs.robot
