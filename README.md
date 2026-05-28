@@ -18,6 +18,6 @@
 1.Open VScode
 2.Copy HTTPS URL
 3.Open terminal 
-4.Run command : Git clone URL
+4.Run command : Git clone https://github.com/Taxi-Meter/Automate_test.git
 5.Open file swagLabs.robot
 6.Run command : Robot .\swagLabs.robot
