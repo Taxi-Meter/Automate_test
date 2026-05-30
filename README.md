@@ -29,5 +29,5 @@ This project focuses on developing an End-to-End (E2E) Automation Testing suite 
 
 ### Any Assumptions Made 
 
-- System Performance : เว็บไซต์ตอบสนองได้ทันภายในเวลาที่ตั้งหน่วงไว้ 1 วินาที
-- Session Isolation : การทดสอบรันบนเบราว์เซอร์ Chrome ในโหมดไม่ระบุตัวตน เพื่อให้มั่นใจว่าเริ่มเซสชันใหม่ที่สะอาดทุกครั้งที่รัน
+- System Performance : The website responded instantly within the set delay of 1 second.
+- Session Isolation : The test is run on the Chrome browser in incognito mode to ensure that a clean, fresh session starts every time it is run.
