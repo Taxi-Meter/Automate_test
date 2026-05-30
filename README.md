@@ -5,7 +5,7 @@ This project focuses on developing an End-to-End (E2E) Automation Testing suite 
 ### Requirements
 
 - Python
-- Robot framework
+- Robot Framework
 - Selenium
 - VScode
 - Git
