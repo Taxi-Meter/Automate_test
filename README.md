@@ -27,7 +27,7 @@ This project focuses on developing an End-to-End (E2E) Automation Testing suite 
 5. Open file swagLabs.robot
 6. Run command :```Robot .\swagLabs.robot```
 
-###Any Assumptions Made 
+### Any Assumptions Made 
 
 - System Performance : เว็บไซต์ตอบสนองได้ทันภายในเวลาที่ตั้งหน่วงไว้ 1 วินาที
 - Session Isolation : การทดสอบรันบนเบราว์เซอร์ Chrome ในโหมดไม่ระบุตัวตน เพื่อให้มั่นใจว่าเริ่มเซสชันใหม่ที่สะอาดทุกครั้งที่รัน
